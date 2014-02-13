@@ -9,7 +9,11 @@ See the [contributing guidelines](https://github.com/angular/angular.js/blob/mas
 
 ## Events
 
-If you are running an Angular meetup, conference, user group, or other type of event, we encourage you to adopt and provide an appropriate [code of conduct](http://confcodeofconduct.com/).
+If you are running an Angular meetup, conference, user group, or other type of event, we encourage you to adopt and provide an appropriate code of conduct.
+The [confcodeofconduct.com](http://confcodeofconduct.com/) template is a good starting point.
+You should also provide contact information for atttendees to get help or report a violation.
+
+For more on adopting a code of conduct, see [Ashe Dryden's FAQ](http://ashedryden.com/blog/codes-of-conduct-101-faq).
 
 
 ## Credits
