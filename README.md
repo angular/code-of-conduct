@@ -18,6 +18,6 @@ For more on adopting a code of conduct, see [Ashe Dryden's FAQ](http://ashedryde
 
 ## Credits
 
-Based on the [Contributor Covenant](https://github.com/Bantik/contributor_covenant) by [Bantik](https://github.com/Bantik).
+Based on the [Contributor Covenant](https://github.com/Bantik/contributor_covenant) by [Coraline Ada Ehmke (Bantik)](https://github.com/Bantik).
 
 If you have suggestions to improve this code of conduct, please submit an issue or PR.
