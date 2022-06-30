@@ -1,6 +1,6 @@
 # Angular Contributor Code of Conduct
 
-See [CODE_OF_CONDUCT.md](https://github.com/angular/code-of-conduct/blob/master/CODE_OF_CONDUCT.md).
+See [CODE_OF_CONDUCT.md](https://github.com/angular/code-of-conduct/blob/main/CODE_OF_CONDUCT.md).
 
 This code of conduct applies to all of the projects under the [Angular organization on GitHub](https://github.com/orgs/angular/) and the Angular community at large (mailing lists, Twitter, YouTube etc.).
 
