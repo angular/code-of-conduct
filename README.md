@@ -4,7 +4,7 @@ See [CODE_OF_CONDUCT.md](https://github.com/angular/code-of-conduct/blob/main/CO
 
 This code of conduct applies to all of the projects under the [Angular organization on GitHub](https://github.com/orgs/angular/) and the Angular community at large (mailing lists, Twitter, YouTube etc.).
 
-See the [contributing guidelines](https://github.com/angular/angular/blob/master/CONTRIBUTING.md) for technical details of contributing to Angular or its satellite projects.
+See the [contributing guidelines](https://github.com/angular/angular/blob/main/CONTRIBUTING.md) for technical details of contributing to Angular or its satellite projects.
 
 ## Events
 
